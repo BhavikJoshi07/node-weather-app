@@ -1,0 +1,18 @@
+{
+  "name": "the-weather-project",
+  "version": "1.0.0",
+  "description": "A cool weather app to show you the weather of any location.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Bhavik Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "yargs": "^6.5.0"
+  }
+}
